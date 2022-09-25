@@ -1,6 +1,10 @@
 ### Hi there 👋, welcome! My name is Daniela Filipe Bento (aka Dani Bento) (she/they)
 
-I'm a software developer with 10 years of experience in Backend Development. I already worked with Python, Golang, Lua, C and Ruby.
+-------
+
+<h5 style="text-align: center; color: #000">Backend Software Developer | SRE (Site Reliability Engineering)</h5>
+
+I'm a software developer with 10 years of experience in Backend Development. I already worked with Python, Golang, Lua, C, Ruby and other few technologies.
 
 -------
 
@@ -8,6 +12,7 @@ I'm a software developer with 10 years of experience in Backend Development. I a
 
 - :telescope: Astronomer and Astrophysicist
 - :computer: Backend Developer
+- :rainbow_flag: LGBTQIA+ activist
 
 ##### 📫 How to reach me:
 [![Blog](https://img.shields.io/badge/blog-danifbento-success)](https://danifbento.me)
@@ -15,21 +20,34 @@ I'm a software developer with 10 years of experience in Backend Development. I a
 [![Twitter Follow](https://img.shields.io/badge/social-twitter-blue)](https://twitter.com/danifbento)
 [![LinkedIn](https://img.shields.io/badge/social-linkedin-informational)](https://linkedin.com/in/danifbento)
 
-<!--<p>
-<a href="http://twitter.com/follow/danifbento><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/danifbento?style=social"></a>
-</p>-->
+-------
 
-<!--
-**danifbento/danifbento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### :hammer_and_wrench: Languages and Tools :
 
-Here are some ideas to get you started:
+<div>
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="GoLang" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTex" width="20px" height="20px"/>
+</p>
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="BitBucket" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  alt="Docker" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Terraform" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="20px" height="20px"/>
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
