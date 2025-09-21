@@ -17,7 +17,8 @@ I'm a software developer with 10 years of experience in Backend Development. I a
 ##### 📫 How to reach me:
 [![Blog](https://img.shields.io/badge/blog-danifbento-success)](https://danifbento.me)
 [![Medium](https://img.shields.io/badge/social-medium-black)](https://medium.com/@danifbento)
-[![Twitter Follow](https://img.shields.io/badge/social-twitter-blue)](https://twitter.com/danifbento)
+[![Bluesky Follow](https://img.shields.io/badge/social-bluesky-blue)](https://bsky.app/profile/danifbento.me)
+[![Mastodon Follow](https://img.shields.io/badge/social-mastodon-blue)](https://mastodon.social/@danifbento)
 [![LinkedIn](https://img.shields.io/badge/social-linkedin-informational)](https://linkedin.com/in/danifbento)
 
 -------
@@ -26,7 +27,7 @@ I'm a software developer with 10 years of experience in Backend Development. I a
 
 <div>
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="20px" height="20px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="GoLang" width="20px" height="20px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="20px" height="20px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="20px" height="20px"/>
@@ -41,7 +42,7 @@ I'm a software developer with 10 years of experience in Backend Development. I a
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="BitBucket" width="20px" height="20px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="20px" height="20px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="20px" height="20px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="20px" height="20px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="20px" height="20px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  alt="Docker" width="20px" height="20px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="20px" height="20px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="20px" height="20px"/>
